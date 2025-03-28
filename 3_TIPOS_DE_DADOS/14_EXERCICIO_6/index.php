@@ -45,6 +45,7 @@
     $velocidade_max = $carro['velocidade_max'];
 
     echo "O carro é da marca $marca e atinge no máximo $velocidade_max km/h <br>";
+    echo "O carro é da marca $carro[marca] e atinge no máximo $carro[velocidade_max] km/h <br>";
 
 
 ?>
